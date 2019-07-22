@@ -13,3 +13,5 @@ Codecademy Optional Bootstrap Portfolio Site Building
 ---> Has an array of User Interface Templates on Bootstrap website that can be customized
 ----> As well as default stylings for these templates
 ----> Good for prototyping
+
+Add CDN link in head and Add JavaScript bootstrap link in script tag at bottom of page
