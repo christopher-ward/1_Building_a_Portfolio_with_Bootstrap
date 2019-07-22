@@ -1,0 +1,15 @@
+Codecademy Optional Bootstrap Portfolio Site Building
+
+--> Some benefits of Bootstrap <---
+
+---> Easily create Mobile first websites
+
+---> Easily create Responsive websites that adapt to various types of screens
+
+---> Utilize hundreds of Free Icons available through Glyphicons for use in projects
+
+---> Can add Interactivity using JQuery and JavaScript
+
+---> Has an array of User Interface Templates on Bootstrap website that can be customized
+----> As well as default stylings for these templates
+----> Good for prototyping
