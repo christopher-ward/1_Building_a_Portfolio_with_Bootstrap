@@ -15,3 +15,14 @@ Codecademy Optional Bootstrap Portfolio Site Building
 ----> Good for prototyping
 
 Add CDN link in head and Add JavaScript bootstrap link in script tag at bottom of page
+
+--> ADD A CONTACT FORM FOR CONTACT SECTION <--
+----> Play around with backend to build form and send out data
+
+
+--> NEED TO ADD A RESUME SECTION TO PORTFOLIO FOR PDF OF RESUME <--
+----> Can also add a Work History section
+----> Or an About You section with a blurb about your self
+------> Look to add some Interactivity there. Perhaps with JQuery
+
+--> 
